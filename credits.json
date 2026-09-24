@@ -1,0 +1,52 @@
+﻿{
+    "hero-smile":  {
+                       "title":  "Senior Asian couple at home",
+                       "creator":  "agilemktg1",
+                       "creator_url":  "https://www.flickr.com/photos/68716695@N06",
+                       "license":  "pdm",
+                       "license_version":  "1.0",
+                       "license_url":  "https://creativecommons.org/publicdomain/mark/1.0/",
+                       "foreign_landing_url":  "https://www.flickr.com/photos/68716695@N06/29720274445",
+                       "source":  "flickr"
+                   },
+    "trust-1":  {
+                    "title":  "Happy and smiling elderly senior couple",
+                    "creator":  "Stannah International",
+                    "creator_url":  "https://www.flickr.com/photos/164316313@N02",
+                    "license":  "by",
+                    "license_version":  "2.0",
+                    "license_url":  "https://creativecommons.org/licenses/by/2.0/",
+                    "foreign_landing_url":  "https://www.flickr.com/photos/164316313@N02/27999711698",
+                    "source":  "flickr"
+                },
+    "trust-2":  {
+                    "title":  "Older couple smiling",
+                    "creator":  "Stannah International",
+                    "creator_url":  "https://www.flickr.com/photos/164316313@N02",
+                    "license":  "by",
+                    "license_version":  "2.0",
+                    "license_url":  "https://creativecommons.org/licenses/by/2.0/",
+                    "foreign_landing_url":  "https://www.flickr.com/photos/164316313@N02/41868798191",
+                    "source":  "flickr"
+                },
+    "care":  {
+                 "title":  "020",
+                 "creator":  "US Army Africa",
+                 "creator_url":  "https://www.flickr.com/photos/36281822@N08",
+                 "license":  "by",
+                 "license_version":  "2.0",
+                 "license_url":  "https://creativecommons.org/licenses/by/2.0/",
+                 "foreign_landing_url":  "https://www.flickr.com/photos/36281822@N08/5725073511",
+                 "source":  "flickr"
+             },
+    "clinic":  {
+                   "title":  "Pony Pediatric Dental Clinic (KINO Architects)",
+                   "creator":  "Forgemind ArchiMedia",
+                   "creator_url":  "https://www.flickr.com/photos/44343967@N00",
+                   "license":  "by",
+                   "license_version":  "2.0",
+                   "license_url":  "https://creativecommons.org/licenses/by/2.0/",
+                   "foreign_landing_url":  "https://www.flickr.com/photos/44343967@N00/11509137833",
+                   "source":  "flickr"
+               }
+}
