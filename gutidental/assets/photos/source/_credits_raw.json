@@ -1,0 +1,68 @@
+﻿{
+    "hero":  {
+                 "source":  "flickr",
+                 "id":  "hero",
+                 "foreign_landing_url":  "https://www.flickr.com/photos/36281822@N08/5725073511",
+                 "creator":  "US Army Africa",
+                 "creator_url":  "https://www.flickr.com/photos/36281822@N08",
+                 "license":  "by",
+                 "license_url":  "https://creativecommons.org/licenses/by/2.0/",
+                 "title":  "020",
+                 "license_version":  "2.0"
+             },
+    "family-smile":  {
+                         "source":  "flickr",
+                         "id":  "family-smile",
+                         "foreign_landing_url":  "https://www.flickr.com/photos/40837632@N05/17215710245",
+                         "creator":  "Gareth1953 All Right Now",
+                         "creator_url":  "https://www.flickr.com/photos/40837632@N05",
+                         "license":  "by",
+                         "license_url":  "https://creativecommons.org/licenses/by/2.0/",
+                         "title":  "Craven Cottage - Apr 2015 - Family Celebration",
+                         "license_version":  "2.0"
+                     },
+    "dentist-portrait":  {
+                             "source":  "flickr",
+                             "id":  "dentist-portrait",
+                             "foreign_landing_url":  "https://www.flickr.com/photos/47201412@N02/34535939450",
+                             "creator":  "pellethepoet",
+                             "creator_url":  "https://www.flickr.com/photos/47201412@N02",
+                             "license":  "by",
+                             "license_url":  "https://creativecommons.org/licenses/by/2.0/",
+                             "title":  "Brothers by John Daniel Cogan (early 1860s)",
+                             "license_version":  "2.0"
+                         },
+    "smile-closeup":  {
+                          "source":  "flickr",
+                          "id":  "smile-closeup",
+                          "foreign_landing_url":  "https://www.flickr.com/photos/121843045@N05/13534409834",
+                          "creator":  "mahmoud99725",
+                          "creator_url":  "https://www.flickr.com/photos/121843045@N05",
+                          "license":  "by-sa",
+                          "license_url":  "https://creativecommons.org/licenses/by-sa/2.0/",
+                          "title":  "83006075PS627_India_Plac.JP",
+                          "license_version":  "2.0"
+                      },
+    "child-checkup":  {
+                          "source":  "flickr",
+                          "id":  "child-checkup",
+                          "foreign_landing_url":  "https://www.flickr.com/photos/99424477@N04/21081504314",
+                          "creator":  "prague.czech.photo",
+                          "creator_url":  "https://www.flickr.com/photos/99424477@N04",
+                          "license":  "by",
+                          "license_url":  "https://creativecommons.org/licenses/by/2.0/",
+                          "title":  "Have you already been to your regular teeth inspection?",
+                          "license_version":  "2.0"
+                      },
+    "clinic-interior":  {
+                            "source":  "flickr",
+                            "id":  "clinic-interior",
+                            "foreign_landing_url":  "https://www.flickr.com/photos/44343967@N00/11509137833",
+                            "creator":  "æºå»ºç¯äººææ­ç¶²ç« Forgemind ArchiMedia",
+                            "creator_url":  "https://www.flickr.com/photos/44343967@N00",
+                            "license":  "by",
+                            "license_url":  "https://creativecommons.org/licenses/by/2.0/",
+                            "title":  "KINO Architects - Pony Pediatric Dental Clinic - Photo 11 (Photography by Keisuke Miyamoto).jpg",
+                            "license_version":  "2.0"
+                        }
+}
